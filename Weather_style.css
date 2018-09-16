@@ -1,0 +1,59 @@
+body {
+    background-color: #ededed;
+    margin-bottom: 50px;
+
+}
+.navbar-brand {
+    padding:10px;
+    margin-left:10%;
+}
+#container2 {
+    margin-top: 50px;
+
+}
+
+#latitude-img {
+    float: left; 
+    width: 250px;
+    height: 200px;
+    margin-right:20px;
+}
+#mainbox {
+    padding: 10px;
+    
+
+}
+.text {
+    margin-top: 30px;
+    margin-right:20px;
+    margin-bottom:10px;
+}
+.visualization {
+    width: 100%;
+   
+}
+.visualization-comparison {
+    width: 100%;
+    margin-bottom: 20px;
+}
+h6 {
+    text-align: center
+}
+#mainbox-comparision {
+    margin-bottom: 25px;
+}
+#v1-img {
+    width: 100%;
+    /* height: 350px;
+    margin-left: 70px; */
+}
+.vtext {
+    margin-left: 10px;
+}
+#theV {
+border: 3px solid green;
+}
+
+table {
+    width: 100%
+}
